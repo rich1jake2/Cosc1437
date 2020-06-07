@@ -22,6 +22,8 @@ public class Exercise14
     static Scanner console = new Scanner(System.in);
     public static void main(String[] args)
     {
+        System.out.println("Exercise 14 - ");
+        System.out.println();
         /* 
         Decimal Formatting - googled the documentation here is the source I used to solve the issue of too many decimals 
         https://docs.oracle.com/javase/7/docs/api/java/text/DecimalFormat.html

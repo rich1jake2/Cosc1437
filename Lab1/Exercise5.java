@@ -13,6 +13,9 @@ public class Exercise5
     static Scanner console = new Scanner(System.in);
     public static void main(String[] args)
     {
+        System.out.println("Execercise 5 - ");
+        System.out.println();
+        // Variable Intialization
         int width;
         int length;
         int area;
@@ -30,6 +33,7 @@ public class Exercise5
         System.out.println();
         area = length * width ;
         perimeter = 2*(length + width);
+        
         // Printing out Area and perimater 
         System.out.println("Area = "+ area);
         System.out.println("Perimeter = "+ perimeter);

@@ -3,6 +3,8 @@ package COSC_Labs;
 // Exercise 2 page 106 
 public class Exercise2{
     public static void main(String[] args){
+        System.out.println("Exercise 2 - ");
+        System.out.println();
         // Part A - 
         int num1; 
         int num2;
